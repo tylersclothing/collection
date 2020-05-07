@@ -246,8 +246,7 @@ section {
 	position: absolute;
 	background: rgb(164,233,210);
 	opacity: 85%;
-	font-weight: bold;
-	text-decoration: underline;
+
 }
 
 .page2 {
@@ -255,6 +254,9 @@ section {
 	width: 20px;
 	border: 2px solid rgb(0,0,0);
 	position: absolute;
+	
+	font-weight: bold;
+	text-decoration: underline;
 
 	background: rgb(164,233,210);
 	opacity: 85%;
